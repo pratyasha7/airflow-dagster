@@ -1,0 +1,101 @@
+order_id,customer_id,product,category,quantity,price,order_date
+1001,C001,Monitor,Electronics,3,18000.0,2026-09-09
+1002,C008,Mouse,Accessories,1,1200.0,2026-09-24
+1003,C022,Monitor,Electronics,3,18000.0,2026-09-29
+1004,C003,USB Hub,Accessories,2,1800.0,2026-09-14
+1005,C001,Laptop,Electronics,1,65000.0,2026-09-07
+1006,C017,Mouse,Accessories,2,1200.0,2026-09-01
+1007,C007,USB Hub,Accessories,3,1800.0,2026-09-21
+1008,C014,USB Hub,Accessories,1,1800.0,2026-09-15
+1009,C009,Smartwatch,Wearables,1,12000.0,2026-09-25
+1010,C023,Keyboard,Accessories,2,2500.0,2026-09-11
+1011,C005,Webcam,Accessories,1,,2026-09-25
+1012,C004,Headphones,Audio,1,3500.0,2026-09-13
+1013,C012,Monitor,Electronics,1,18000.0,2026-09-20
+1014,C002,Webcam,Accessories,3,4500.0,2026-09-15
+1015,C004,USB Hub,Accessories,2,1800.0,2026-09-03
+1016,C010,USB Hub,Accessories,3,1800.0,09/16/2026
+1017,C019,Headphones,Audio,1,3500.0,2026-09-23
+1018,C002,Monitor,Electronics,3,18000.0,2026-09-08
+1019,C003,Webcam,Accessories,1,4500.0,2026-09-28
+1020,C013,Monitor,Electronics,1,18000.0,2026-09-15
+1021,C006,Headphones,,1,3500.0,2026-09-12
+1022,C022,Mouse,Accessories,1,1200.0,2026-09-23
+1023,C020,Monitor,Electronics,3,18000.0,2026-09-06
+1024,C024,USB Hub,Accessories,1,1800.0,2026-09-06
+1025,C013,Speaker,Audio,1,5000.0,2026-09-30
+1026,C008,USB Hub,Accessories,3,1800.0,2026-09-11
+1027,C008,Laptop,Electronics,1,65000.0,2026-09-26
+1028,C013,Headphones,Audio,1,3500.0,2026-09-03
+1029,C019,Mouse,Accessories,3,1200.0,2026-09-11
+1030,C021,Mouse,Accessories,2,1200.0,2026-09-30
+1031,C005,Speaker,Audio,-2,5000.0,2026-09-05
+1032,C024,Mouse,Accessories,2,1200.0,2026-09-18
+1033,C024,Webcam,Accessories,2,4500.0,2026-09-14
+1034,C013,Smartwatch,Wearables,1,12000.0,2026-09-08
+1035,C017,Keyboard,Accessories,2,2500.0,2026-09-03
+1036,C004,Laptop,Electronics,1,65000.0,17-09-2026
+1037,C022,Keyboard,Accessories,2,2500.0,2026-09-20
+1038,C013,Monitor,Electronics,2,18000.0,2026-09-20
+1039,C017,Speaker,Audio,1,5000.0,2026-09-18
+1040,C022,Laptop,Electronics,3,65000.0,2026-09-04
+1041,C025,USB Hub,Accessories,1,1800.0,2026-09-25
+1042,C004,Headphones,Audio,1,3500.0,2026-09-14
+1043,C015,Keyboard,Accessories,1,2500.0,2026-09-24
+1044,C017,Webcam,Accessories,1,4500.0,2026-09-17
+1045,C021,Monitor,Electronics,1,18000.0,2026-09-27
+1046,C020,USB Hub,Accessories,1,1800.0,2026-09-05
+1047,C025,Headphones,Audio,1,3500.0,2026-09-18
+1048,C001,USB Hub,Accessories,2,1800.0,2026-09-11
+1049,C001,Speaker,Audio,1,5000.0,2026-09-30
+1050,C010,Headphones,Audio,1,3500.0,2026-09-02
+1051,C019,Mouse,Accessories,1,,2026-09-03
+1052,C003,Speaker,Audio,2,5000.0,2026-09-25
+1053,C005,Keyboard,Accessories,3,2500.0,2026-09-16
+1054,C006,USB Hub,Accessories,1,1800.0,2026-09-17
+1055,C014,Smartwatch,Wearables,1,12000.0,2026-09-30
+1056,C025,USB Hub,Accessories,3,1800.0,2026-09-23
+1057,C023,Mouse,Accessories,1,1200.0,2026-09-13
+1058,C015,Headphones,Audio,2,3500.0,2026-09-15
+1059,C008,Monitor,Electronics,1,18000.0,2026-09-03
+1060,C023,Keyboard,Accessories,2,2500.0,2026-09-11
+1061,C019,Mouse,,1,1200.0,2026-09-01
+1062,C023,Monitor,Electronics,3,18000.0,2026-09-02
+1063,C003,Mouse,Accessories,1,1200.0,2026-09-28
+1064,C003,Headphones,Audio,2,3500.0,2026-09-08
+1065,C022,Webcam,Accessories,2,4500.0,2026-09-07
+1066,C005,USB Hub,Accessories,3,1800.0,2026-09-30
+1067,C019,Smartwatch,Wearables,2,12000.0,2026-09-08
+1068,C014,Speaker,Audio,1,5000.0,2026-09-04
+1069,C022,Monitor,Electronics,2,18000.0,2026-09-12
+1070,C014,Tablet,Electronics,2,30000.0,2026-09-28
+1071,C022,Laptop,Electronics,0,65000.0,2026-09-21
+1072,C002,Monitor,Electronics,1,18000.0,2026-09-24
+1073,C004,Headphones,Audio,1,3500.0,2026-09-07
+1074,C018,Mouse,Accessories,2,1200.0,2026-09-05
+1075,C006,Tablet,Electronics,1,30000.0,2026-09-15
+1076,C003,Mouse,Accessories,2,1200.0,2026-09-26
+1077,C004,USB Hub,Accessories,1,1800.0,2026-09-21
+1078,C001,USB Hub,Accessories,1,1800.0,2026-09-30
+1079,C006,Mouse,Accessories,2,1200.0,2026-09-16
+1080,C007,Speaker,Audio,2,5000.0,2026-09-29
+1081,C006,Laptop,Electronics,-5,65000.0,2026-11-20
+1082,C009,Tablet,Electronics,2,30000.0,2026-11-21
+1083,C023,Tablet,Electronics,3,30000.0,2026-11-22
+1084,C022,USB Hub,Accessories,3,1800.0,2026-11-23
+1085,C007,Keyboard,Accessories,1,2500.0,2026-09-07
+1086,C019,Laptop,Electronics,3,65000.0,"September 29, 2026"
+1087,C024,Laptop,Electronics,1,65000.0,2026-09-02
+1088,C019,Laptop,Electronics,2,65000.0,2026-09-17
+1089,C006,USB Hub,Accessories,1,1800.0,2026-09-17
+1090,C006,Monitor,Electronics,1,18000.0,2026-09-20
+1091,C022,Monitor,Electronics,1,18000.0,2026-09-13
+1092,C019,Monitor,Electronics,1,18000.0,2026-09-19
+1093,C002,Smartwatch,Wearables,2,12000.0,2026-09-03
+1094,C022,Tablet,Electronics,2,30000.0,2026-09-19
+1095,C011,USB Hub,Accessories,1,1800.0,2026-09-07
+1096,C008,Headphones,Audio,1,3500.0,2026-09-13
+1097,C022,Keyboard,Accessories,3,2500.0,2026-09-10
+1001,C001,Monitor,Electronics,3,18000.0,2026-09-09
+1002,C008,Mouse,Accessories,1,1200.0,2026-09-24
+1003,C022,Monitor,Electronics,3,18000.0,2026-09-29
